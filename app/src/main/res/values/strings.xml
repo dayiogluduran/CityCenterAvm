@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">City Center Avm</string>
+    <string name="slogan">Alışverişin Yeni Adresi</string>
+    <string name="forgotten_password">Şifremi Unuttum</string>
+    <string name="phone">Telefon</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="sign_up">Üye Ol</string>
+    <string name="password_sign_up">Şifre (min 4 karakter)</string>
+    <string name="name_surname">Ad Soyad</string>
+    <string name="mail">Email</string>
+    <string name="terms_of_use">Kullanım Koşulları\'nı</string>
+    <string name="continue_terms_of_use">" okudum ve kabul ediyorum."</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_dashboard_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_notifications_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_location">İletişim</string>
+    <string name="services">Hizmetler</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="campaigns">Kampanyalar</string>
+    <string name="activities">Etkinlikler</string>
+    <string name="stores_frag_tab_stores">Mağazalar</string>
+    <string name="stores_frag_tab_a_to_z">A\'dan Z\'ye</string>
+    <string name="stores_frag_tab_categories">Kategoriler</string>
+    <string name="stores_frag_tab_floor">Kat</string>
+    <string name="mado_store_details">Mado’nun dünya markası olma yolundaki ilk önemli adım Yaşar Pastanesi ile atılır. 150 yıllık
+        birikimin dünya çapında bir marka ile çok yönlü ve
+        verimli bir şekilde temsil edilmesinde Yaşar Pastanesi önemli bir köşe taşı. Çünkü bu mekan doğanın cömertliği
+        ile insanoğlunun emeğinin ve sabrının dondurma severlerle buluştuğu ilk mekan.</string>
+    <string name="adress">Adres</string>
+    <string name="contact_us_detials">"Zafer Mahallesi Doğan Araslı Bulvarı\nno:79/1&#8211;1 34513 Esenyurt &#8211; İstanbul\n\n+90 212 699 25 15\n\nE-Posta:\ninfo@citycenteroutlet.com\n\nCity Center Outlet Durağından Geçen Minibüsler\n\nKüçükçekmece &#8211; Örnek Mh.\nAvcılar &#8211; Esenyurt &#8211; Hadımköy\nAvcılar &#8211; Örnek Mh.\nAvcılar &#8211; Kıraç\nAvcılar&#8211; Deliklikaya\nAvcılar &#8211; Bağlarçeşme\nAvcılar – Boğazköy\nAvcılar – Karaağaç\n\nCity Center Outlet Durağından Geçen İett Otobüsleri\n\nAvcılar >>>> City Center Outlet\n142, 142A, 144A, 146, 146BA, 147, 76D\n\nBahçeşehir >>>> City Center Outlet\n146, 147, 142B, 144B\n\nBeylikdüzü >>>> City Center Outlet\n146, 147, 76, 142B\n\n</string>
+    <string name="eposta">Eposta</string>
+    <string name="call">Ara</string>
+    <string name="website">Website</string>
+    <string name="about_us_detail">Proje Adı: Esenyurt City Center\nAvm Adı: City Center Outlet\nYatırımcı: Özyurt İnşaat A.Ş. &#8211; Koloni İnşaat A.Ş – GMS İnşaat A.Ş\nAçılış Tarihi: 22 Eylül 2017\nToplam İnşaat Alanı: 200.000 m2\nKiralanabilir Alan : 36.860 m2\nMağaza Sayısı: 212\nKafe/Restoran: 15\nAvm Kat Sayısı: 4\nKat Kapalı Otopark : 2 Kat / 1082 Araç Kapasitesi\nProje kapsamında Esenyurt Kaymakamlığı, Esenyurt Belediyesi, Esenyurt Emniyet Müdürlüğü, Esenyurt Üniversitesi gibi kamu binalarına ilave olarak 250 adet Rezidans bulunmaktadır.\n\nKamu hizmetleri ile vatandaşları bir araya getirerek adı üstünde bir şehir merkezi olmayı hedefliyor.\n\nCity Center Esenyurt içerisinde bulunan rezidanslar ile yüksek konforlu bir yaşam sunarken ayrıcalıkların sadece standart olduğu ofisleri ile iş merkezi tanımını ticaretin yeni merkezine dönüştürüyor ve alışveriş merkezi ile de tüm sosyal ihtiyaçların merkez noktasını belirliyor.\nEsenyurt Kaymakamlığı, Esenyurt Belediye Başkanlığı, Esenyurt İlçe Emniyet Müdürlüğü ve Esenyurt Üniversitesi (8.200 öğrenci) gibi kamu binalarının yer aldığı karma projede alışveriş merkezi için de yüksek frekans oluşturuluyor.\n\n</string>
+    <string name="favourites">Favoriler</string>
+    <string name="map">Harita</string>
+    <string name="email">E-posta</string>
+    <string name="detail_burger_king">Türkiye\'deki faaliyetlerine 1995 yılında ATA Grubu\'na bağlı TAB Gıda Sanayi A.Ş.\'nin Türkiye\'deki ana geliştirici ve üretici haklarını alarak bünyesine katmasıyla başlayan Burger King®, kısa sürede restoran zincirlerinin halkalarını çoğaltarak, vazgeçilmez lezzetlerin adresi olmuştur.  Uluslararası kalite ve hijyen standartlarında üretim ve hizmete her zaman büyük bir özen gösteren TAB Gıda güvencesindeki Burger King®\'in zengin olduğu kadar lezzetli ürün çeşidini geliştirmeye ve sürekli eğitime verdiği önem, bugünkü başarısındaki en önemli rolü oynamaktadır. Türkiye\'de sektörünün lider markası biri olan Burger King®, bugün Türkiye genelindeki 650\'den fazla restoranı ile lezzet düşkünlerine hizmet vermektedir.</string>
+    <string name="detail_alacati_muhallebicisi">Alaçatı Muhallebicisi’nin mimari yaklaşımı orijinal Alaçatı sokaklarından beslenir. Alaçatı’nın eşsiz doğasındaymışçasına sakinlik hissi yaşatır. Fesleğen kokan arnavut kaldırımlı dar sokakları, beyaza boyanmış tahta masaları, taş duvarlardan sarkan begonvilleri ile Alaçatı mimarisini özenle koruduk.</string>
+    <string name="detail_flo">1960 yılında Ahmet Ziylan tarafından küçük bir atölyede temelleri atılan FLO Mağazacılık, bugün Türkiye ayakkabı pazarının tartışmasız lideri konumundadır. Doğrudan 9.700’ün üzerinde, dolaylı olarak 30.000’e yakın kişiye istihdam sağlayan FLO Mağazacılık, yılda 55 milyon çift ayakkabı satışı gerçekleştirmektedir.  Mağazaları ile Türkiye’nin hemen her noktasına ulaşan FLO, yurt içinde 500’e yakın mağaza, yurt dışında ise 14 ülkede 80’e yakın mağaza ile hizmet vermektedir. FLO Mağazacılık bünyesinde bulunan çok markalı sneaker konseptli IN Street’in satış noktaları da FLO’nun satış ağını her yıl güçlendirmekte ve yayılımını artırmaktadır. Sonuç olarak, sürekli yeni mağazalar açan FLO Mağazacılık, Türkiye ve yurt dışında yakın coğrafyada 2018 sonu itibariyle 600’e yakın mağazaya sahiptir.</string>
+    <string name="detail_koton">KOTON, 1988’de, Kuzguncuk’ta açılan 25 metrekarelik bir mağaza ile başlayan hikayesini, bugün 30 ülkede 500 mağazada, 11.000 çalışanı ile sürdürüyor. 220’den fazla tasarımcının yer aldığı kreatif kadrosuyla moda trendlerine yön veren KOTON, her gün 50 farklı seçeneği ve her yıl 50’den fazla koleksiyonuyla, 30.000 farklı modeli tüketiciyle buluşturuyor. KOTON; özellikle hızlı moda sektörünün dinamikleri ve istihdam yapısı sayesinde çalışanlarına daha kısa sürede yükselme ve başarı olanağı sağlıyor. Türkiye’de ve yurt dışında yeni yatırımlarla istikrarlı ve hızlı bir şekilde büyümeye devam eden Koton, her iki yılda bir büyüklüğünü ikiye katlayarak etki alanını genişletiyor. Stratejik öncelikleri doğrultusunda toplam operasyon modeli de sürekli gelişen KOTON, iş yapış şekillerinden sistem altyapısına, yetkinliklerinden liderlik modeline, organizasyonel yapısından kültürüne kadar kapsamlı bir dönüşüm geçirerek global hedefleri doğrultusunda geleceğe hazırlanıyor. Bu dönüşüm ve dinamizm, KOTON çalışanlarına hem Türkiye operasyonunda hem de globalde sürekli öğrenme ve gelişim fırsatını sunarken, global iş imkânlarını ve pek çok kariyer fırsatını da beraberinde getiriyor.</string>
+    <string name="detail_mavi">Gücünü denim köklerinden alan Mavi, uluslararası bir hazır giyim ve aksesuar markasına dönüşerek üstün kaliteli ürünlerini “perfect fit” felsefesiyle ileriye taşımaya devam ediyor. Perfect Fit, müşteri ihtiyaçlarını anlama, yakından izleme ve müşteriye fiyatını hak eden ürünler sunmaya imkân veriyor.  Denim sektöründe inovasyona dayalı premium ürünler geliştirme yetkinliği, Mavi\'yi uluslararası jean pazarının üst segmentine taşıyan diğer bir faktör. Denim alanındaki teknoloji gelişimi ve inovasyonun dünya çapındaki öncülerinden biri olması, kalite ve fiyat seviyesini belirlemede Mavi\'ye güç katıyor.</string>
+    <string name="detail_penti">Markamızın öyküsü 1950 yılında Mois ve Yasef Kariyo kardeşler tarafından kurulan iki ayrı şirket ile başladı. Ülkemizde sanayileşmenin sınırlı olduğu bu dönemde, iki girişimci kardeşin güçlerini tek çatı altında birleştirmesi hepimiz için önemli bir dönüm noktası oldu. 1970 yılında Öğretmen Çorap adını alan markamız, bir yıl sonra İstanbul Bayrampaşa’da kurulan ilk üretim tesisimizle birlikte gelişmeye devam etti. Marka ismimizin Öğretmen Çorap olarak değiştirilmesi ise, o dönemde Türkiye’de ince kadın çorabını genellikle öğretmenlerin tercih etmesine dayanıyordu. 1980’li yıllara geldiğimizde ailenin ikinci kuşak temsilcisi Sami Kariyo, markamızın kaptan köşküne geçti. Şehirli kadının ihtiyaçlarına da odaklanan markamız renk, desen, çeşit ve kaliteye önem veren üretim anlayışını daha da pekiştirdi. Böylelikle bir yandan pazardaki konumumuzu sağlamlaştırırken, diğer yandan da 1984 yılında markalaşma sürecinin son aşamasına gelmiş olduk ve Penti ismini aldık.</string>
+    <string name="example_campaign_detail">Oyuncak Hikayesi 4, kaşıktan yapılma bir oyuncak olan Forky’nin atıldığı macerayı konu ediyor. Bir geri dönüşüm projesi ile yaratılan Forky, oyuncak olduğunu asla kabul etmez. Tek kullanımlık bir kaşıktan yapılma bir oyuncak olsa da o oyuncak olmadığı konusunda ısrarcıdır. Kendisini Bonnie’nin odasına ait hissetmeyen Forky, dünyadaki amacının ne olduğunu düşünmeye başlar. Kendisini oyuncaklardan biri olarak görmediği için Bonnie’nin yanında kalmak zorunda hissetmeyen Forky, dünyadaki amacını kaşık olarak yerine getirmeye karar verir. Ancak onun oyuncak olarak üstesinden gelmesi gereken bambaşka bir görevi vardır.</string>
+    <string name="share">Paylaş</string>
+    <string name="Search">Ara</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/stores_frag_tab_selected_bg" android:state_selected="true"/>
+    <item android:drawable="@color/stores_fragment_tab_bar_bg"/>
+</selector>

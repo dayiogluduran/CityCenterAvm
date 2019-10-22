@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="login_edit_text_style">
+        <item name="android:paddingStart">@dimen/login_ui_edit_text_padding</item>
+        <item name="android:paddingEnd">@dimen/login_ui_edit_text_padding</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="change_password_edit_text_style">
+        <item name="android:paddingStart">@dimen/login_ui_edit_text_padding</item>
+        <item name="android:paddingEnd">@dimen/login_ui_edit_text_padding</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/campaign_activity_title_color</item>
+        <item name="android:textColorHint">@color/campaign_activity_title_color</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="SwitchCompatStyle" >
+        <item name="thumbTint">@drawable/switch_color</item>
+        <item name="trackTint">@drawable/switch_color</item>
+    </style>
+    <style name="ToolbarIconStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorPrimaryInverse">@color/white</item>
+    </style>
+</resources>

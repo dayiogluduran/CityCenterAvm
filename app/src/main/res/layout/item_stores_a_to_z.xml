@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/item_store_az_layout"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_vertical_margin"
+        android:layout_weight="2"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/item_stores_az_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            tools:src="@drawable/example_logo_burger" />
+    </LinearLayout>
+
+    <TextView
+
+        android:id="@+id/item_stores_az_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|center_vertical"
+        android:layout_marginStart="@dimen/text_vertical_margin"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:layout_weight="7"
+        android:textColor="@color/services_text_color"
+        android:textSize="18sp"
+        tools:text="Burger King" />
+
+    <TextView
+        android:id="@+id/item_stores_az_floor"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="@dimen/login_ui_edit_text_padding"
+        android:layout_weight="2"
+        android:gravity="end"
+        android:textColor="@color/inactive_tab_text_color"
+        android:textSize="15sp"
+        tools:text="Kat 7" />
+</LinearLayout>
